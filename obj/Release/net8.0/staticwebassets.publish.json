@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5nTIeYW3oDr7mco9U02lJELNlBj8Sovg9HnXHgCrsH8=",
+  "Source": "worknet-api",
+  "BasePath": "_content/worknet-api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\worknet-api.props" />
+</Project>
