@@ -14,6 +14,10 @@ The app is currently a work in progress as we continue to implement additional f
 
 - **Profile Customization**: Users have the ability to customize their profiles, allowing them to showcase their skills, experience, and preferences to potential employers or network connections.
 
+
+## Technologies
+The backend was created with C# using ASP.NET, and the frontend was built using Angular with TypeScript.
+
 ## Deployment
 WorkNet was a collaborative effort between Kerim Brkic (https://github.com/keromaaa), who focused on the frontend development, and myself, handling the backend aspects of the project.
 For detailed information about the WorkNet API endpoints, parameters, and response formats visit the deployed API here: https://api.p2328.app.fit.ba/swagger/index.html, 
