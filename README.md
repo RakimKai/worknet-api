@@ -21,5 +21,15 @@ The backend was created with C# using ASP.NET, and the frontend was built using 
 ## Deployment
 WorkNet was a collaborative effort between Kerim Brkic (https://github.com/keromaaa), who focused on the frontend development, and myself, handling the backend aspects of the project.
 For detailed information about the WorkNet API endpoints, parameters, and response formats visit the deployed API here: https://api.p2328.app.fit.ba/swagger/index.html, 
-but for a intuitive and user-friendly UI experience visit the deployed Web App here: https://web.p2328.app.fit.ba/login 
+but for a intuitive and user-friendly UI experience visit the deployed Web App here: https://web.p2328.app.fit.ba/login.
+
+## Login credentials for testing (employee): 
+email: `test@gmail.com`
+
+password: `Test1234`
+
+## Login credentials for testing (company): 
+email: `test2@gmail.com`
+
+password: `Test1234`
 
