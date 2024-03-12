@@ -1,6 +1,6 @@
 # WorkNet API
 Worknet is a web application which allows users to access a comprehensive database of job listings, seamlessly connect with potential employers and manage their job search journey with ease.
-The app is currently a work in progress as we continue to implement additional functionalities, ranging from image integration to the introduction of entirely new features. Stay tuned for exciting updates!"
+The app is currently a work in progress as we continue to implement additional functionalities, ranging from image integration to the introduction of entirely new features. Stay tuned for exciting updates!
 ## Features
 - **User Registration**: Users can sign up as job seekers or employers, tailoring their accounts to their specific needs.
 
